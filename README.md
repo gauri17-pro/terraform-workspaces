@@ -1,4 +1,4 @@
-# Understanding Terraform Workspaces and Managing Environments using Workspaces
+# Understanding Terraform Workspaces and Managing Environments using them
 
 ## Introduction to Terraform Workspaces
 
